@@ -7,7 +7,6 @@ CHT智能中英輸入法：Windows11/10 下中英輸入法無須切換中英模�
 點擊下載到電腦中指定folder中後，
 點擊此檔案解縮到此目錄中後，選擇SmartZhEnIme-v1.1.6-Setup-x64.exe檔，滑鼠右鍵以系統管理員身分執行此程式，遵照畫面說明完成安裝。
 
-[SmartZhEnIme-Windows-使用說明與達成成果-含附圖版.md](https://github.com/user-attachments/files/31497573/SmartZhEnIme-Windows-.-.md)
 # SmartZhEnIme 智能中英輸入法
 ## Windows 詳細使用說明與達成成果（含附圖版）
 
