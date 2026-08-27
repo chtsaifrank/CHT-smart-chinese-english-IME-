@@ -1,5 +1,11 @@
 # CHT-smart-chinese-english-IME
 CHT智能中英輸入法：Windows11/10 下中英輸入法無須切換中英模式，直接輸入中文字(注音)英文字智慧判斷，準確率高>99.9%延遲低&lt;1ms,1不需網路本地使用不收集資料
+
+程式壓縮下載:
+[SmartZhEnIme.zip](https://github.com/user-attachments/files/31497676/SmartZhEnIme.zip)
+點擊下載到電腦中指定folder中後
+點擊此檔案解縮到此目錄中後，選擇SmartZhEnIme-v1.1.6-Setup-x64.exe檔，滑鼠右鍵以系統管理員身分執行此程式
+
 [SmartZhEnIme-Windows-使用說明與達成成果-含附圖版.md](https://github.com/user-attachments/files/31497573/SmartZhEnIme-Windows-.-.md)
 # SmartZhEnIme 智能中英輸入法
 ## Windows 詳細使用說明與達成成果（含附圖版）
