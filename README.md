@@ -189,7 +189,7 @@ SmartZhEnIme 是以 Windows TSF（Text Services Framework）為基礎的繁體�
 
 ---
 
-## 10. 1K Portable 驗證統計
+## 10. 1K 中英混文章輸入 驗證統計
 
 - Articles：**1000 / 1000 accepted**
 - Test A：**9000 / 9000 PASS**
