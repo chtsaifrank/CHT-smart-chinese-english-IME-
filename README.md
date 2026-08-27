@@ -64,7 +64,6 @@ Windows 輸入法清單中應能看到「繁體中文（台灣）/ CHT智能中�
 下圖為 SmartZhEnIme 在 Windows 桌面上的實際畫面，包含輸入區、候選窗、資訊視窗、工作列模式圖示與 Windows 鍵盤清單。
 <img width="1152" height="648" alt="智能中英輸入2" src="https://github.com/user-attachments/assets/47f5d407-09ac-4c0d-bdcf-9603129df033" />
 
-附圖來源： 95d46c93-b393-5785-b67a-3fa99c9d7dee.jpg
 6.1 圖中各區域說明
 位置 / 標示
 畫面內容
