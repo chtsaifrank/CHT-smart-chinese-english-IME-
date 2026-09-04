@@ -4,7 +4,7 @@ CHT智能中英輸入法：Windows11/10 下中英輸入法無須切換中英模�
 
 測試版程式壓縮下載: (2.3K篇文章samples)
 
-[SmartZhEnIme-v1.1.7-Setup.zip](https://github.com/user-attachments/files/31839057/SmartZhEnIme-v1.1.7-Setup.zip)
+[SmartZhEnIme-v1.2.0-Setup.zip](https://github.com/user-attachments/files/31839280/SmartZhEnIme-v1.2.0-Setup.zip)
 
 點擊下載到電腦中指定folder中後，
 
