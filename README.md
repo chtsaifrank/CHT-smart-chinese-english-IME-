@@ -2,7 +2,7 @@
 CHT智能中英輸入法：Windows11/10 下中英輸入無須切換中英模式，直接輸入中文字(注音)英文字智慧判斷，
 準確率高>99%延遲低&lt;5ms,本地使用不需網路不收集資料
 
-測試版程式壓縮下載: (2.3K篇文章samples)
+測試版程式壓縮下載: (2.3K篇文章samples train)
 
 [SmartZhEnIme-v1.2.5-Setup.zip](https://github.com/user-attachments/files/32312082/SmartZhEnIme-v1.2.5-Setup.zip)
 
@@ -19,7 +19,7 @@ CHT智能中英輸入法：Windows11/10 下中英輸入無須切換中英模式�
 
 SmartZhEnIme 是以 Windows TSF（Text Services Framework）為基礎的繁體中文／英文智慧混合輸入法。主要目標是在一般使用情境下，讓使用者不必頻繁手動切換中英文模式，就能直接進行中文、英文與中英混合輸入。
 
-三種模式： 短按 Shift 切換 (Win+Space 切換輸入法)
+三種模式(menu上可選組合)： 短按 Shift 切換(menu上可選) (Win+Space 是切換輸入法)
 
 1. **智能中英（Smart）**：預設模式，自動判定按鍵輸入是中文或英文，圖示為「智」。
 2. **英文（English）**：只處理英文輸入。
