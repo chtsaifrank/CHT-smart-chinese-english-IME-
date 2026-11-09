@@ -36,14 +36,14 @@ SmartZhEnIme 是以 Windows TSF（Text Services Framework）為基礎的繁體�
 
 ### 3.1 建議使用版本
 
-`SmartZhEnIme-v1.1.7-Setup-x64.exe`
+`SmartZhEnIme-v1.2.9.8-Setup.exe`
 
 此版本已修正 Windows language profile icon route 註冊問題。
 
 ### 3.2 安裝指令
 
 ```
-.SmartZhEnIme-v1.2.9.8-Setup.exe
+ 執行SmartZhEnIme-v1.2.9.8-Setup.exe 並遵循提示完成安裝
 ```
 
 ### 3.3 安裝完成後的檢查重點
