@@ -42,9 +42,7 @@ SmartZhEnIme 是以 Windows TSF（Text Services Framework）為基礎的繁體�
 
 ### 3.2 安裝指令
 
-```
- 執行SmartZhEnIme-v1.2.9.8-Setup.exe 並遵循提示完成安裝
-```
+ 下載後執行SmartZhEnIme-v1.2.9.8-Setup.exe 並遵循提示完成安裝
 
 ### 3.3 安裝完成後的檢查重點
 
