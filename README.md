@@ -13,8 +13,6 @@ CHT智能中英輸入法：Windows11/10 下中英輸入無須切換中英模式�
   </main>
 </body>
 </html>
-[Uploading CHT-IME-Course.html…]()
-
 ## 在右側 Releases 欄有最新 release 版本供下載
 點擊下載到電腦中指定folder中後，
 點擊此檔案解縮到此目錄中後，選擇.exe執行檔，滑鼠右鍵以系統管理員身分執行此程式，遵照畫面說明完成安裝。
