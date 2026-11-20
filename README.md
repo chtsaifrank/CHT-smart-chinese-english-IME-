@@ -1,6 +1,30 @@
 # CHT-smart-chinese-english-IME
 CHT智能中英輸入法：Windows11/10 下中英輸入無須切換中英模式，直接輸入中文字(注音)英文字智慧判斷，
 準確率高>99%延遲低&lt;5ms,本地使用不需網路不收集資料
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="0;url=https://cht-ime-methods-course.chtsay.chatgpt.site/">
+  <title>開啟 CHT 解題學院</title>
+  <style>
+    body{margin:0;padding:48px 24px;background:#f2f6f3;color:#183f33;font:18px/1.8 "Segoe UI","Microsoft JhengHei",sans-serif}
+    main{max-width:640px;margin:10vh auto;padding:32px;background:white;border-radius:16px}
+    h1{font-size:28px}a{display:inline-block;padding:12px 20px;border-radius:8px;background:#245c49;color:white;text-decoration:none}a:focus-visible{outline:3px solid #bd7b2e;outline-offset:4px}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>CHT 解題學院</h1>
+    <p>神經網路與統計方法：智能中英文輸入法互動教材。</p>
+    <p>正在開啟網站。若未自動跳轉，請點擊下方連結。</p>
+    <a href="https://cht-ime-methods-course.chtsay.chatgpt.site/">開啟互動教材</a>
+    <p><small>此入口需要網路連線。</small></p>
+  </main>
+</body>
+</html>
+[Uploading CHT-IME-Course.html…]()
 
 ## 在右側 Releases 欄有最新 release 版本供下載
 點擊下載到電腦中指定folder中後，
