@@ -29,9 +29,9 @@ SmartZhEnIme 是以 Windows TSF（Text Services Framework）為基礎的繁體�
 
 三種模式(menu上可選組合)： 短按 Shift 切換(menu上可選) (Win+Space 是切換輸入法)
 
-1. **智能中英（Smart）**：預設模式，自動判定按鍵輸入是中文或英文，圖示為「智」。
-2. **英文（English）**：只處理英文輸入。
-3. **中文（Chinese / Zhuyin）**：只處理中文注音輸入，圖示為「中」。
+1. **智能中英（Smart）**：預設模式，自動判定按鍵組輸入是中文或英文，圖示為「智」。
+2. **英文（English）**：不處理原鍵輸出。
+3. **中文（Chinese / Zhuyin）**：當作中文注音輸入處理，圖示為「中」。
 
 ---
 
